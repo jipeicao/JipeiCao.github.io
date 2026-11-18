@@ -1,6 +1,4 @@
 
-
-
 He is currently a master's student in School of Computer Science at Qufu Normal University
 
 #### Contact
