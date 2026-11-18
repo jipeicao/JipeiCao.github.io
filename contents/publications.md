@@ -6,7 +6,7 @@
 
 - <strong>Cao, Jipei</strong>, Hanxiang Wang*, Mengyao Ma, Yanfen Li, Defu Qiu, Yuehui Chen, Tan N. Nguyen, and L. Minh Dang*. "AgriEyeNet: Seeing smarter in agriculture with medium-difficulty aware loss and lightweight adaptive detection." <strong>Applied Intelligence</strong> 56, no. 16 (2026): 502. [[Paper]](https://doi.org/10.1007/s10489-026-07550-1)
 
-- Ma, Mengyao, Yanfen Li*, Jipei Cao, Hanxiang Wang, Tan N. Nguyen, and L. Minh Dang*. "LSCDNet: leveraging fine-grained contextual cues for precise detection of small target crop disease spots in complex field environments." <strong>Computers and Electronics in Agriculture</strong> 252 (2026): 112095. [[Paper]](https://doi.org/10.1016/j.compag.2026.112095)
+- Ma, Mengyao, Yanfen Li*, <strong>Jipei Cao</strong>, Hanxiang Wang, Tan N. Nguyen, and L. Minh Dang*. "LSCDNet: leveraging fine-grained contextual cues for precise detection of small target crop disease spots in complex field environments." <strong>Computers and Electronics in Agriculture</strong> 252 (2026): 112095. [[Paper]](https://doi.org/10.1016/j.compag.2026.112095)
 
 <!-- - X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
 
