@@ -3,7 +3,7 @@ He is currently a master's student in School of Computer Science at Qufu Normal 
 
 #### Contact
 
-Email: jipei@qfnu.edu.cn
+Email: jipeicv@qfnu.edu.cn
 
 #### Education
 M.E., Computer Technology, School of Computer Science, Qufu Normal University, 2024—Now.\
